@@ -1,0 +1,25 @@
+# Weather API
+
+## Description
+
+This application is to help generate a simple logo without needing to hire someone or spend too much time designing one. It also can be used in a wide variety of applications from art to everyday business needs. I had learned a lot about object oriented design and how to link the files together. I also learned a lot about creating a more effective file structure. 
+
+## Installation
+
+N/A
+
+## Usage
+
+First in the Terminal Command Line type in 'node index.js' then answer the questions that come up next. 
+
+Next go to the logo.svg file and right click, click on 'Open with Live Server'. 
+
+It will then open up a browser to see the completed logo. 
+
+## Credits
+
+I credit this work to the T.A. Robert Johnson in helping me figure out the initial code with index.js and generate Markdown.js. I also would like to thank my tutor Andrew Hardemon in helping me figure out how to do the shapes.js and fixing up the codes in index.js and generateMarkdown so they link together and run the way I need them to run. 
+
+## License
+
+Please refer to the LICENSE in the repo.
